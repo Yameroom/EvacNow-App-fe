@@ -1,6 +1,6 @@
 # evacnow_app
 
-Evacnow (Recommendation Evacuate Location) flutter Project.
+EvacNow (Recommendation Evacuate Location) flutter Project.
 
 ## Getting Started
 
