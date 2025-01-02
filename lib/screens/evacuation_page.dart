@@ -68,7 +68,7 @@ class _EvacuationPageState extends State<EvacuationPage> {
   Future<List<LatLng>> getPolylinePoints() async {
     if (_userLocation == null || _nearestEvacuation == null) return [];
 
-    String apiKey = 'AIzaSyAxf4JwZu1Mw-QMFauOhzuYkg3quuvsXtw'; 
+    String apiKey = 'YOUR API KEY'; 
     String url =
         'https://maps.googleapis.com/maps/api/directions/json?origin=${_userLocation!.latitude},${_userLocation!.longitude}&destination=${_nearestEvacuation!.latitude},${_nearestEvacuation!.longitude}&mode=walking&key=$apiKey';
 
