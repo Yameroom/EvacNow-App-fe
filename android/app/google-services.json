@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321694193062",
+    "project_id": "evacnow",
+    "storage_bucket": "evacnow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321694193062:android:0f0cde11c6c508a84e2b67",
+        "android_client_info": {
+          "package_name": "com.example.evacnow_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHNrduRCa60z6CSBox2h8Oq65iaQAz7mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
